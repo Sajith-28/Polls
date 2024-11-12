@@ -96,8 +96,9 @@ urlpatterns = [
 
 ## OUTPUT
 ![1](https://github.com/user-attachments/assets/ef4c4899-91e9-4085-8bbb-3b3cd35e4736)
-![4](https://github.com/user-attachments/assets/3bc1f36f-3dd8-4dfb-8a64-64048911d384)
 ![2](https://github.com/user-attachments/assets/39cc99c1-966c-4e63-b340-2f921f175010)
+![4](https://github.com/user-attachments/assets/3bc1f36f-3dd8-4dfb-8a64-64048911d384)
+
 
 ## COURSERA GRADE
 ![3](https://github.com/user-attachments/assets/9df6b582-ee9b-4d50-a5ea-4f3a7af30bca)
