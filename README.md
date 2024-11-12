@@ -95,10 +95,12 @@ urlpatterns = [
 ```
 
 ## OUTPUT
-![Screenshot 2024-11-12 125756](https://github.com/user-attachments/assets/00fba5c4-3afa-4343-8d2a-e06171638611)
-
+![1](https://github.com/user-attachments/assets/ef4c4899-91e9-4085-8bbb-3b3cd35e4736)
+![4](https://github.com/user-attachments/assets/3bc1f36f-3dd8-4dfb-8a64-64048911d384)
+![2](https://github.com/user-attachments/assets/39cc99c1-966c-4e63-b340-2f921f175010)
 
 ## COURSERA GRADE
+![3](https://github.com/user-attachments/assets/9df6b582-ee9b-4d50-a5ea-4f3a7af30bca)
 
 ## RESULT
 Thus the program for creating a polls using Django has been executed successfully.
